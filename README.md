@@ -3,6 +3,8 @@ Experimental automation for personal journalling inspired by Twine 2, Infinilist
 
 This is highly experimental and hacky result of a single evening of coding.
 
+-- Edit -- I've recently tried out Obsidian. I highly encourage you to give it a go! Obsidian has already done what I was setting out to do with this little side-project. https://obsidian.md
+
 # Notes on development so far
 I used the open source repo for Twine 2 editor as a guide in this experiment. Anyone could do this.
 
